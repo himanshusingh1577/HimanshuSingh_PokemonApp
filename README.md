@@ -119,19 +119,6 @@ All API logic is separated in `lib/pokemon-api.ts` for maintainability.
 - Clean folder structure following Next.js conventions
 - Proper error handling
 
-## Screenshots
-
-### Home Page - Pokémon Grid
-![Home Page](docs/screenshots/home-page.png)
-
-### Search Functionality
-![Search](docs/screenshots/search.png)
-
-### Pokémon Detail Page
-![Detail Page](docs/screenshots/detail-page.png)
-
-### Mobile Responsive Design
-![Mobile View](docs/screenshots/mobile-view.png)
 
 ## Performance Optimizations
 
@@ -165,14 +152,9 @@ This project is optimized for deployment on Vercel:
 - **Tailwind CSS:** Utility-first CSS framework
 - **shadcn/ui:** Re-usable component collection
 
-## License
-
-This project is created for educational purposes as part of a frontend development assignment.
-
 ## Contact
 
-For questions or feedback, please contact [Your Name] at [Your Email]
+For questions or feedback, please contact Himanshu Singh at himanshusingh1577@gmail.com
 
 ---
 
-**Built with ❤️ using Next.js and PokéAPI**
