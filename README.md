@@ -135,16 +135,6 @@ All API logic is separated in `lib/pokemon-api.ts` for maintainability.
 - Safari (latest)
 - Edge (latest)
 
-## Deployment
-
-This project is optimized for deployment on Vercel:
-
-1. Push code to GitHub
-2. Import project in Vercel dashboard
-3. Deploy automatically
-
-**Live Demo:** [Your deployment URL here]
-
 ## Credits
 
 - **PokéAPI:** Free Pokémon data API (https://pokeapi.co/)
